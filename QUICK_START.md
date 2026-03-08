@@ -6,7 +6,7 @@ REFRAG compresses massive documents into tiny KV prefixes, enabling LLMs to "rem
 
 ---
 
-## 📋 What You Have
+## 📋 What We Have
 
 ### Two Implementations
 
